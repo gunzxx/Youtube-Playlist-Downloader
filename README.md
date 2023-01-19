@@ -5,6 +5,7 @@ Ini merupakan project gabut saya ketika saya ingin mendownload video dari youtub
 
 ## Cara memasukkan link
 Silahkan ganti link yg ada di dalam variabel yt_playlist dan ganti dengan link anda.
+Anda juga bisa memasukkannya langsung melalui terminal.
 
 ## Cara memilih resolusi
 ### High Resolusi -> default
