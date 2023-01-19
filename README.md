@@ -4,7 +4,7 @@ Ini merupakan project gabut saya ketika saya ingin mendownload video dari youtub
 
 
 ## Cara memasukkan link
-Anda juga bisa memasukkannya langsung melalui terminal. 
+Anda bisa memasukkannya langsung melalui terminal. 
 Anda juga bisa mengganti link yg ada di dalam variabel yt_playlist dan ganti dengan link anda.
 
 
