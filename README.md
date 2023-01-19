@@ -27,5 +27,5 @@ Semisal kita ingin menaruh di Folder G:\Python\singger, maka ganti menjadi :
 video.streams.get_highest_resolution().download("G:\Python\singger")
 
 
-# Thanks
+# Thanks 🤗
 Silahkan dipakai, jangan lupa star nya ya!:)
